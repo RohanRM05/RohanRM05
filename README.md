@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="./portrait-terminal.gif" width="100%" alt="Animated ASCII portrait">
-</p>
+<img src="./portrait-terminal.gif" width="100%" alt="Animated ASCII portrait">
 
 <!--
 **RohanRM05/RohanRM05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
