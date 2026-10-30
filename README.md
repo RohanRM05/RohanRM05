@@ -2,6 +2,10 @@
 
 <img src="./portrait-terminal.gif" width="100%" alt="Animated ASCII portrait">
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RohanRM05&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views">
+</p>
+
 <!--
 **RohanRM05/RohanRM05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
